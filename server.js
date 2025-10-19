@@ -69,7 +69,7 @@ technologies: {
       description: "A containerised Sentiment Analysis Tool built with Python and Docker, offering REST API endpoints for text sentiment classification and insights",
       technologies: ["Python", "API Integration","Docker","NLP"],
       github: "https://github.com/venkadeshm16/sentiment-analysis-tool",
-      // demo: "https://your-weather-demo.com",
+      demo: "https://sentiment-analysis-tool-1m4c.onrender.com/register",
       image: "/images/senti.jpg"
     }
   ]
